@@ -11,7 +11,11 @@
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
-            <OpenGappsUrl
+               <XDAUrl
+                id="xda"
+                title="XDA"
+description="Visit the ResurrectionRemix thread of zuk z2">https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-zuk-z2-plus-t3596812</XDAUrl>
+		<OpenGappsUrl
             	id="open_gapps"
             	title="Open"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
